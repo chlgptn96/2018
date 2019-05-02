@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+.entry{
+	width : 846px;
+	height :648px;  
+	overflow: hidden; 
+	background-image : url('login.JPG'); 
+	margin-top: 50;
+	}
+h1.title{
+	max-width : 100%;
+	height : auto;
+	text-shadow : 1px 1px 2px #666666;
+	color : black; 
+	padding-top : 300px; 
+	text-align : center;
+}
+table {
+
+position: absolute; top: 250px; left: 170px; right: 30px;
+text-align:center;
+}
